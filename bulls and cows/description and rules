@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 
-from mastermind_engine import get_number, check_user_answer, is_game_over
-
 # Игра «Быки и коровы»
 # https://goo.gl/Go2mb9
 #
